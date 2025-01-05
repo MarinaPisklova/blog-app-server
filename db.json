@@ -560,7 +560,7 @@
       "roles": "ADMIN",
       "features": {
         "isArticleRatingEnabled": true,
-        "isAppRedesigned": false
+        "isAppRedesigned": true
       },
       "jsonSettings": {
         "theme": "app_dark_theme",
@@ -586,9 +586,9 @@
     },
     {
       "id": "3",
-      "username": "testuser",
+      "username": "manager",
       "password": "123",
-      "roles": "ADMIN",
+      "roles": "MANAGER",
       "features": {
         "isArticleRatingEnabled": true
       },
